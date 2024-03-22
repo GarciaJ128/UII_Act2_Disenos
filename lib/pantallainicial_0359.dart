@@ -27,7 +27,7 @@ class PantallaInicial_0359 extends StatelessWidget {
               ),
               child: const Text(
                 "Zona de aterrizaje p1",
-                style: TextStyle(color: Colors.white),
+                style: TextStyle(color: Colors.black),
               ),
             ),
             ElevatedButton(
