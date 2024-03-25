@@ -18,7 +18,7 @@ class Pantalla7_0359 extends StatelessWidget {
             Container(
               margin: const EdgeInsets.all(30),
               decoration: BoxDecoration(
-                color: Color(0xFF69F0AE),
+                color: const Color(0xFF69F0AE),
                 borderRadius: BorderRadius.circular(10.0),
               ),
               width: 250,
@@ -26,7 +26,7 @@ class Pantalla7_0359 extends StatelessWidget {
               alignment: Alignment.bottomCenter,
               child: Container(
                 decoration: BoxDecoration(
-                  color: Color(0xFFB9F6CA),
+                  color: const Color(0xFFB9F6CA),
                   borderRadius: BorderRadius.circular(10.0),
                 ),
                 height: 100,
@@ -45,4 +45,4 @@ class Pantalla7_0359 extends StatelessWidget {
       ),
     );
   } //Fin widget
-} //Fin pantalla4
+} //Fin pantalla7_0359

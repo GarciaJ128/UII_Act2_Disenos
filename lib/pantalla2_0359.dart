@@ -33,15 +33,15 @@ class Pantalla2_0359 extends StatelessWidget {
                 ],
               ),
               alignment: Alignment.center,
-              child: Text(
+              child: const Text(
                 'Mi encabezado',
-                style: const TextStyle(
+                style: TextStyle(
                   fontSize: 35,
                   color: Colors.white,
                 ),
               ),
             ),
-            Text("Jennifer Garcia",
+            const Text("Jennifer Garcia",
                 style: TextStyle(fontSize: 20, color: Color(0xff610a0a))),
             Container(
               margin: const EdgeInsets.all(20.0),

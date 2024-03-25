@@ -25,7 +25,7 @@ class Pantalla13_0359 extends StatelessWidget {
                   bottomLeft: Radius.circular(40.0),
                 ),
               ),
-              child: Text(
+              child: const Text(
                 'Jennifer Garcia',
                 style: TextStyle(
                   fontSize: 25,
@@ -45,4 +45,4 @@ class Pantalla13_0359 extends StatelessWidget {
       ),
     );
   } //Fin widget
-} //Fin pantalla1
+} //Fin pantalla13_0359

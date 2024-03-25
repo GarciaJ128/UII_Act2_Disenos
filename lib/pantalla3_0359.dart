@@ -1,4 +1,4 @@
-//Pantalla2_0359
+//Pantalla3_0359
 import 'package:flutter/material.dart';
 
 class Pantalla3_0359 extends StatelessWidget {
@@ -56,4 +56,4 @@ class Pantalla3_0359 extends StatelessWidget {
       ),
     );
   } //Fin Widget
-} //Fin Pantalla2_0359
+} //Fin Pantalla3_0359

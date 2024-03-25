@@ -42,7 +42,7 @@ class Pantalla1_0359 extends StatelessWidget {
                 ),
               ),
             ),
-            Text("Jennifer Garcia",
+            const Text("Jennifer Garcia",
                 style: TextStyle(fontSize: 20, color: Color(0xFF880E4F))),
             Container(
               margin: const EdgeInsets.all(20.0),

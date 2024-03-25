@@ -17,10 +17,10 @@ class Pantalla10_0359 extends StatelessWidget {
         margin: const EdgeInsets.all(40),
         padding: const EdgeInsets.all(20),
         decoration: BoxDecoration(
-          color: Color(0xFF7986CB),
+          color: const Color(0xFF7986CB),
           borderRadius: BorderRadius.circular(30.0),
-          boxShadow: [
-            const BoxShadow(
+          boxShadow: const [
+            BoxShadow(
               color: Color(0xFF1A237E),
               offset: Offset(7, 7),
               blurRadius: 6,
@@ -37,4 +37,4 @@ class Pantalla10_0359 extends StatelessWidget {
       )),
     );
   } //Fin widget
-} //Fin pantalla4
+} //Fin pantalla10_0359

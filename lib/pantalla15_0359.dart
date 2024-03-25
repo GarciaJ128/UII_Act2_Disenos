@@ -1,4 +1,4 @@
-//Pantalla1_0359
+//Pantalla15_0359
 import 'package:flutter/material.dart';
 
 class Pantalla15_0359 extends StatelessWidget {
@@ -16,13 +16,13 @@ class Pantalla15_0359 extends StatelessWidget {
         child: Column(
           children: [
             Container(
-              margin: EdgeInsets.all(40),
-              padding: EdgeInsets.all(20),
+              margin: const EdgeInsets.all(40),
+              padding: const EdgeInsets.all(20),
               decoration: BoxDecoration(
-                color: Color(0xFF757575),
+                color: const Color(0xFF757575),
                 borderRadius: BorderRadius.circular(20),
               ),
-              child: Text(
+              child: const Text(
                 'Jennifer Garcia',
                 style: TextStyle(
                   fontSize: 25,
@@ -41,4 +41,4 @@ class Pantalla15_0359 extends StatelessWidget {
       ),
     );
   } //Fin widget
-} //Fin pantalla1
+} //Fin pantalla15_0359

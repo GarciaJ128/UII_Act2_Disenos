@@ -1,4 +1,4 @@
-//Pantalla1_0359
+//Pantalla6_0359
 import 'package:flutter/material.dart';
 
 class Pantalla6_0359 extends StatelessWidget {
@@ -18,7 +18,7 @@ class Pantalla6_0359 extends StatelessWidget {
             Container(
               margin: const EdgeInsets.all(30),
               decoration: BoxDecoration(
-                color: Color(0xFF2E7D32),
+                color: const Color(0xFF2E7D32),
                 borderRadius: BorderRadius.circular(10.0),
               ),
               width: 250,
@@ -26,7 +26,7 @@ class Pantalla6_0359 extends StatelessWidget {
               alignment: Alignment.bottomCenter,
               child: Container(
                 decoration: BoxDecoration(
-                  color: Color(0xFF4CAF50),
+                  color: const Color(0xFF4CAF50),
                   borderRadius: BorderRadius.circular(10.0),
                 ),
                 height: 100,
@@ -44,4 +44,4 @@ class Pantalla6_0359 extends StatelessWidget {
       ),
     );
   } //Fin widget
-} //Fin pantalla4
+} //Fin pantalla6_0359

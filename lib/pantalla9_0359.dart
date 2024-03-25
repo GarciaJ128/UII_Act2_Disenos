@@ -1,4 +1,4 @@
-//Pantalla7_0359
+//Pantalla9_0359
 import 'package:flutter/material.dart';
 
 class Pantalla9_0359 extends StatelessWidget {
@@ -14,23 +14,23 @@ class Pantalla9_0359 extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          margin: EdgeInsets.all(10),
-          padding: EdgeInsets.all(20),
+          margin: const EdgeInsets.all(10),
+          padding: const EdgeInsets.all(20),
           decoration: BoxDecoration(
-            color: Color(0xFFE0F7FA),
+            color: const Color(0xFFE0F7FA),
             border: Border.all(
-              color: Color(0xFF006064),
+              color: const Color(0xFF006064),
               width: 4,
             ),
             borderRadius: BorderRadius.circular(10.0),
-            gradient: LinearGradient(
+            gradient: const LinearGradient(
               colors: [Color(0xFF00ACC1), Color(0xFF006064)],
               begin: Alignment.centerLeft,
               end: Alignment.centerRight,
               stops: [0.4, 1.0],
             ),
           ),
-          child: Text(
+          child: const Text(
             'Jennifer Garcia \n Mat. 21308051280359',
             style: TextStyle(fontSize: 25, color: Colors.white),
             textAlign: TextAlign.center,
@@ -39,4 +39,4 @@ class Pantalla9_0359 extends StatelessWidget {
       ),
     );
   } //Fin widget
-} //Fin pantalla4
+} //Fin pantalla9_0359
